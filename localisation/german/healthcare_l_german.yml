@@ -1,0 +1,23 @@
+﻿l_german:
+civic_pharma_group:0 "Pharmakonzern"
+civic_pharma_group_desc:0 "Das Gesundheitssystem dieser Nation hat sich weiterentwickelt und in die Regierung integriert. Nun stellt es seine Dienste der gesamten Galaxie zur Verfügung - gegen eine Gebühr, versteht sich..."
+civic_tooltip_pharma_group:0 "Medizinarbeiter produzieren auch £trade_value£"
+
+building_university_hospital:0 "Universitätsklinik"
+building_university_hospital_desc:0 "Die medizinische Versorgung an der Universitätsklinik kostet nicht besonders viel - zumindest nicht viel Geld..."
+building_health1:2 "Fortgeschrittene Genklinik"
+building_health1_desc:2 "Hier werden neben der grundlegenden Gesundheitsversorgung auch fortgeschrittene Gen-Anpassungen durchgeführt."
+building_health2:2 "Zell-Revitalisierungskomplex"
+building_health2_desc:2 "Der Komplex kann mehr als doppelt so viele Patienten behandel wie das Revitalisierungszentrum."
+
+tech_healthcare_1:0 "Medizinischer Fortschritt I"
+tech_healthcare_1_desc:0 "Medizinarbeiter produzieren mehr £amenities£. Außerdem produzieren Medizinarbeiter £trade_value£."
+tech_healthcare_2:0 "Medizinischer Fortschritt II"
+tech_healthcare_2_desc:0 "Medizinarbeiter produzieren zusätzliche £amenities£ und £trade_value£"
+
+civic_involuntary_test_subjects:0 "Unfreiwillige Testsubjekte"
+civic_involuntary_test_subjects_desc:0 "In seinem Streben nach Fortschritt und neuen Behandlungsmethoden scheut dieses Reich nicht davor zurück, an emfpindungsfähigen Lebewesen zu experimentieren."
+civic_tooltip_involuntary_test_subjects:0 "Medizinarbeiter produzieren auch £society_research£. Spezies die Ausgerottet werden (Verarbeitung) produzieren £physics_research£, £engineering_research£ und £society_research£ anstatt £food£"
+job_purge_lab_rats:0 "Versuchskaninchen"
+job_purge_lab_rats_plural:0 "Versuchskaninchen"
+job_purge_lab_rats_desc:0 "Diese Probanden werden für militärische und medizinische Experimente verwendet. Wenn sie Glück haben, finden wir vielleicht sogar die Heilung für die tödlichen Viren, mit denen wir sie infizieren."

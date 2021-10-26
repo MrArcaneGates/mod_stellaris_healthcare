@@ -1,0 +1,25 @@
+﻿l_english:
+civic_pharma_group:0 "Pharma Group"
+civic_pharma_group_desc:0 "This nations healthcare industry has evolved and integrated itself into the government, providing services to anyone in need - for a fee, that is..."
+civic_tooltip_pharma_group:0 "Medical workers also produce £trade_value£"
+
+building_university_hospital:0 "University Hospital"
+building_university_hospital_desc:0 "This hospital provides affordable healthcare to the population. Terms and conditions may apply."
+
+
+building_health1:2 "Advanced Gene Clinic"
+building_health1_desc:2 "On top of regular healthcare, this clinic provides options for gen modification."
+building_health2:2 "Cyto-Revitalization Complex"
+building_health2_desc:2 "This building can accomodate more than twice as many citizens as a regular Revitalization Center"
+
+tech_healthcare_1:0 "Medical Progress I"
+tech_healthcare_1_desc:0 "Medical workers produce additional £amenities£. On top of that, they now produce £trade_value£."
+tech_healthcare_2:0 "Medical Progress II"
+tech_healthcare_2_desc:0 "Medical workers produce additional £amenities£ and £trade_value£"
+
+civic_involuntary_test_subjects:0 "Involuntary Test Subjects"
+civic_involuntary_test_subjects_desc:0 "In it's pursuit of knowledge and advanced treatments, this empire does not hesitate to experiment on sentient beings."
+civic_tooltip_involuntary_test_subjects:0 "Medical workers also produce £society_research£. Pops that are being purged (processing) produce £physics_research£, £engineering_research£ and £society_research£ instead of £food£"
+job_purge_lab_rats:0 "Lab Rat"
+job_purge_lab_rats_plural:0 "Lab Rats"
+job_purge_lab_rats_desc:0 "These subjects are used for military and medical experimentation. If they are lucky, we might even find the cure to the deadly viruses we inject them with."

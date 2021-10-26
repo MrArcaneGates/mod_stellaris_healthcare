@@ -1,0 +1,11 @@
+version="1.0"
+tags={
+	"Balance"
+	"Buildings"
+	"Economy"
+	"Gameplay"
+}
+name="Healthcare++"
+picture="thumbnail.png"
+supported_version="3.0.*"
+remote_file_id="2326074604"

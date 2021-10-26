@@ -1,0 +1,58 @@
+#Pharma Group
+civic_pharma_group = {
+description = "civic_tooltip_pharma_group"
+
+potential = {
+	OR = {
+	authority = { value = auth_corporate }
+	civics = { value = civic_galactic_sovereign_megacorp }
+	}
+	}
+	possible = {
+		civics = {
+
+			NOR = {
+				 value = civic_criminal_heritage
+				 value = civic_naval_contractors
+                		}
+		}
+		}
+
+		modifier = {
+		   job_healthcare_per_pop = 0.04
+	}
+
+	random_weight = {
+		base = 5
+	}
+}
+
+
+civic_involuntary_test_subjects = {
+description = "civic_tooltip_involuntary_test_subjects"
+
+	potential = {
+		ethics = { NOT = { value = ethic_gestalt_consciousness } }
+	}
+	possible = {
+		ethics = {
+			OR = {
+				value = ethic_xenophobe
+				value = ethic_fanatic_xenophobe
+			}
+			NOR = {
+				value = ethic_egalitarian
+				value = ethic_fanatic_egalitarian
+			}
+		}
+		origin = {
+				NOT = {
+				value = origin_necrophage
+			}
+		}
+		}
+
+	random_weight = {
+		base = 5
+	}
+}
